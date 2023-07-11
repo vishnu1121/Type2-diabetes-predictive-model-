@@ -15,10 +15,8 @@
         - ANN
 	
 7. training the model
-8. building the model with Random Forest since it gives better score comparing with Other Models 
+8. building the model.
 
 Note:
 
-Extension - Voting Classifier, Decision Tree , Random Forest, CNN, LSTM , and ANN  is build as Extension for feature values
-and Decision Tree is used for prediction since we it gives better Accuracy score value comparing with other Models
-
+Extension - Voting Classifier, Decision Tree , Random Forest, CNN, LSTM , and ANN  is build as Extension for feature values.
