@@ -6,8 +6,9 @@ The Diabetes Predictive Model is a machine learning-based solution that aims to 
 Features
 The Diabetes Predictive Model offers the following features:
 
-Data Preprocessing,
+Data Preprocessing/Data Visualization,
 Feature Selection,
 Model Training,
 Model Evaluation,
-Prediction
+Prediction.
+
